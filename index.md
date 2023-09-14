@@ -1,5 +1,5 @@
 ---
-<h1>Heading level 1</h1>title: Welcome to my ArcPro training
+<h1>Welcome to my ArcPro training</h1>title: 
 ---
 <h2>Introduction</h2><br/><br/>
 This course provides an introduction to working with geospatial data in ArcPro for data scientists and those new to GIS and geography.
